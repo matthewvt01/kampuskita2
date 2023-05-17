@@ -1,4 +1,4 @@
-package com.si6b.kampuskita2.Activity;
+package com.si6b.kampuskita2.Activity.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 

@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:layout_margin="6dp"
     android:orientation="vertical"
-    tools:context=".Activity.UbahActivity">
+    tools:context="com.si6b.kampuskita2.Activity.UbahActivity">
 
     <TextView
         android:layout_width="match_parent"
