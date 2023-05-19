@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_margin="6dp"
-    tools:context="com.si6b.kampuskita2.Activity.Activity.MainActivity">
+    tools:context="com.si6b.kampuskita2.Activity.MainActivity">
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv_kampus"

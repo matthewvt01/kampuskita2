@@ -1,6 +1,6 @@
-package com.si6b.kampuskita2.Activity.API;
+package com.si6b.kampuskita2.API;
 
-import com.si6b.kampuskita2.Activity.Model.ModelResponse;
+import com.si6b.kampuskita2.Model.ModelResponse;
 
 import retrofit2.Call;
 import retrofit2.http.Field;

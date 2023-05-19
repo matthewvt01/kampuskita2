@@ -1,4 +1,4 @@
-package com.si6b.kampuskita2.Activity.Model;
+package com.si6b.kampuskita2.Model;
 
 public class ModelKampus {
     private String id, nama, kota, alamat;

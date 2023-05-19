@@ -1,4 +1,4 @@
-package com.si6b.kampuskita2.Activity.Adapter;
+package com.si6b.kampuskita2.Adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -9,7 +9,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.si6b.kampuskita2.Activity.Model.ModelKampus;
+import com.si6b.kampuskita2.Model.ModelKampus;
 import com.si6b.kampuskita2.R;
 
 import java.util.List;
