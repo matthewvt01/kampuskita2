@@ -15,7 +15,8 @@
             android:id="@+id/tv_id"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Id"/>
+            android:text="Id"
+            android:visibility="gone"/>
 
         <TextView
             android:id="@+id/tv_nama"
@@ -36,6 +37,32 @@
             android:text="Alamat"
             android:textStyle="bold"
             android:justificationMode="inter_word"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_weight="2"
+            android:layout_marginTop="6dp">
+
+            <Button
+                android:id="@+id/btn_ubah"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Ubah"
+                android:drawableLeft="@drawable/ic_ubah"
+                android:layout_weight="1"
+                android:layout_marginRight="2dp"/>
+
+            <Button
+                android:id="@+id/btn_hapus"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Hapus"
+                android:drawableLeft="@drawable/ic_hapus"
+                android:layout_weight="1"
+                android:layout_marginLeft="2dp"/>
+        </LinearLayout>
 
     </LinearLayout>
 

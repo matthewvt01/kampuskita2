@@ -19,26 +19,26 @@
         android:id="@+id/et_nama"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Nama"
+        android:hint="Nama"
         />
 
     <EditText
         android:id="@+id/et_kota"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Kota"
+        android:hint="Kota"
         />
 
     <EditText
         android:id="@+id/et_alamat"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Alamat"
+        android:hint="Alamat"
         />
     <Button
         android:id="@+id/btn_simpan"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Simpan"/>
+        android:hint="Simpan"/>
 
 </LinearLayout>
